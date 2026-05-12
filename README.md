@@ -4,6 +4,6 @@
 
 🌱 I'm a sophomore at the University of Kentucky studying Econ + Data Science. Incoming E-Commerce Intern at Auctane this summer.
 
-🎙️ I host [Data in Practice](https://www.youtube.com/@DataInPractice), a podcast with senior data professionals.
+🎙️ I host [Data in Practice](https://www.youtube.com/@DataInPractice) to help learn about data straight from industry leaders.
 
-🔒 Most of what I build lives in private repos. Public side: [joinery](https://github.com/ryan-beam/joinery), [ebay-sales-dashboard](https://github.com/ryan-beam/ebay-sales-dashboard).
+🔒 Most of what I build lives in private repos.
