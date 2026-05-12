@@ -1,6 +1,6 @@
-👋 Hi, I'm Ryan — connect on [LinkedIn](https://www.linkedin.com/in/ryan-beam-a3a724261/)
+👋 Hi, I'm Ryan — connect on [LinkedIn](https://www.linkedin.com/in/ryanbeam12/)
 
-🧠 I'm interested in agentic AI and applied causal inference.
+🧠 I'm interested in agentic AI, data, and much more!
 
 🌱 I'm a sophomore at the University of Kentucky studying Econ + Data Science. Incoming E-Commerce Intern at Auctane this summer.
 
