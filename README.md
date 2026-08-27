@@ -2,7 +2,7 @@
 
 🧠 I'm interested in data, ml, ai, and much more!
 
-🌱 I'm a sophomore at the University of Kentucky studying Econ + Data Science. E-Commerce Intern at ShipStation Global this summer.
+🌱 I'm a junior at the University of Kentucky studying Econ + Data Science. E-Commerce Intern at ShipStation Global.
 
 🎙️ I host [Data in Practice](https://www.youtube.com/@DataInPractice) to help learn about data straight from industry leaders.
 
